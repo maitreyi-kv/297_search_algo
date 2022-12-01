@@ -1,4 +1,4 @@
-Tf-idf in Documnet similarity using pyspark:
+Tf-idf in Document similarity using pyspark:
 
 Requirements:
 a. Run on databricks.com
